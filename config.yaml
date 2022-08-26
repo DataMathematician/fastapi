@@ -1,0 +1,25 @@
+app:
+  title:
+  description: """
+Приложение управления данными в СберФакторинг 🚀
+
+## Items
+
+You can **read items**.
+
+## Users
+
+You will be able to:
+
+* **Create users** (_implemented_).
+* **Read users** (_implemented_).
+"""
+  version: 0.0.1
+  terms_of_service: "http://example.com/terms/"
+  contact: {
+        "name": "Волков Георгий",
+        "url": "http://SBERFACTORING_CONFLUENCE",
+        "email": "GAVolkov@sberfactoring.com",}
+  license_info: {
+        "name": "SberFactoring",
+        "url": "https://sberfactoring.ru/",}
